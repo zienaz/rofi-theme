@@ -1,0 +1,9 @@
+configuration {
+ modi: "window,drun,ssh,combi,filebrowser";
+ combi-modi: "window,drun,ssh";
+ width: 50;
+ lines: 18;
+ columns: 1;
+ font: "mono 12";
+ }
+@theme "/home/zii/.config/rofi/themes/glue_pro_blue_modded.rasi"
